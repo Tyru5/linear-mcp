@@ -2,6 +2,10 @@
 
 This MCP server provides tools to interact with the Linear API, allowing you to fetch tasks and their associated details.
 
+<a href="https://glama.ai/mcp/servers/@Tyru5/linear-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@Tyru5/linear-mcp/badge" alt="Linear Server MCP server" />
+</a>
+
 ## Setup
 
 1. Install dependencies:
@@ -109,3 +113,4 @@ use_mcp_tool
 server_name: linear
 tool_name: get_users
 arguments: {}
+```
